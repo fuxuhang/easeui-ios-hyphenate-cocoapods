@@ -21,4 +21,5 @@ Pod::Spec.new do |spec|
   spec.dependency 'Hyphenate', '~> 3.5.3'
   spec.dependency 'MBProgressHUD', '~> 1.0.0'
   spec.dependency 'SDWebImage', '~> 3.5'
+  spec.dependency 'MWPhotoBrowser', '~> 2.1.2-0.1.1'
 end
