@@ -19,4 +19,5 @@ Pod::Spec.new do |spec|
   spec.xcconfig     = {'OTHER_LDFLAGS' => '-ObjC'}
   spec.dependency 'MJRefresh', '~> 3.1.0'
   spec.dependency 'Hyphenate', '~> 3.5.3'
+  spec.dependency 'MBProgressHUD', '~> 1.0.0'
 end
